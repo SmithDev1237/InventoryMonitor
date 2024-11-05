@@ -15,7 +15,7 @@
 - **Configurable Limits**: Allows users to set critical and warning limits for items, with color-coded alerts for easy monitoring.
 - **Dynamic UI**: Built with ImGui for an interactive and customizable user interface.
 
-|  ![Example of the monitor](https://github.com/SmithDev1237/InventoryMonitor/blob/main/img/Example.jpg)]  |  ![Config Mode](https://github.com/SmithDev1237/InventoryMonitor/blob/main/img/Config.jpg)]  |
+|  ![Example of the monitor](https://github.com/SmithDev1237/InventoryMonitor/blob/main/img/Example.jpg)  |  ![Config Mode](https://github.com/SmithDev1237/InventoryMonitor/blob/main/img/Config.jpg)  |
 | ------------ | ------------ |
 |   |   |
 
