@@ -17,7 +17,6 @@
 
 |  ![Example of the monitor](https://github.com/SmithDev1237/InventoryMonitor/blob/main/img/Example.jpg)  |  ![Config Mode](https://github.com/SmithDev1237/InventoryMonitor/blob/main/img/Config.jpg)  |
 | ------------ | ------------ |
-|   |   |
 
 ## Installation
 
